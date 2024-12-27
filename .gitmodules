@@ -1,0 +1,3 @@
+[submodule "assets/FanControl.Releases"]
+	path = assets/FanControl.Releases
+	url = https://github.com/Rem0o/FanControl.Releases.git
