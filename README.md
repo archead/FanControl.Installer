@@ -62,8 +62,10 @@ Feel free to fork and contribute to improve the installer. Issues and pull reque
 
 ---
 
-## License
+## License ![lgplv3-88x31](https://github.com/user-attachments/assets/016bf4f6-c787-44e6-ba79-d3928a7a0d75)
+
 This project is licensed under the **GPLv3**. See the [LICENSE](https://github.com/archead/FanControl.Installer/blob/master/LICENSE) file for details.
+![Uploading lgplv3-88x31.png…]()
 
 ---
 
