@@ -27,7 +27,6 @@ AppUpdatesURL={#AppURL}
 DefaultDirName={autopf}\{#AppName}
 
 DisableProgramGroupPage=yes
-Uninstallable=not WizardIsTaskSelected('portablemode')
 LicenseFile=..\assets\FanControl.Releases\LICENSE
 ; Uncomment the following line to run in non administrative install mode (install for current user only.)
 ;PrivilegesRequired=lowest
