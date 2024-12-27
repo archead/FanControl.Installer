@@ -56,6 +56,11 @@ The uninstaller ensures that:
 2. You can opt to delete user-generated files (e.g., configuration, logs).
 
 ---
+## TODO
+- Fully automate the uninstallation process.
+- Ensure first launch is with admin privileges.
+
+---
 
 ## Contributing
 Feel free to fork and contribute to improve the installer. Issues and pull requests are welcome.
